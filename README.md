@@ -14,18 +14,6 @@
 
 - ⚡ Fun fact **It's Lonely At The Top**
 
- <small class="text-muted text-md-start text-center lh-lg" style="font-size: 13.5px;">"I am a <span class="fw-bold">Web Developer</span> with strong skills in <span class="border-bottom border-secondary border-1">HTML</span> , <span class="border-bottom border-secondary border-1">CSS</span> , and <span class="border-bottom border-secondary border-1">JavaScript</span>. Armed with knowledge in <span class="border-bottom border-secondary border-1">Bootstrap</span> and <span class="border-bottom border-secondary border-1">Sass</span>, I am able to create a charming and responsive website. In addition, my expertise in <span class="border-bottom border-secondary border-1">jQuery</span> allows me to give a wonderful interactive touch to web pages. With experience in <span class="border-bottom border-secondary border-1">PHP</span>, <span class="border-bottom border-secondary border-1">Laravel</span>, and <span class="border-bottom border-secondary border-1">MySQL</span>, I can develop sophisticated and efficient web applications. I am always passionate about creating exceptional user experiences and presenting innovative solutions. Together, let's realize your vision and present an extraordinary website!"</small>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/afiqqimy" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="afiqqimy" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/fyqq/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fyqq/" height="30" width="40" />
-</a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -61,8 +49,4 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
-</p>
-<h3 align="left">Most Used Languages:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fyyqq&show_icons=true&locale=en&layout=compact" alt="fyyqq" />
 </p>
