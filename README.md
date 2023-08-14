@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **It's Lonely At The Top**
 
+ <small class="text-muted text-md-start text-center lh-lg" style="font-size: 13.5px;">"I am a <span class="fw-bold">Web Developer</span> with strong skills in <span class="border-bottom border-secondary border-1">HTML</span> , <span class="border-bottom border-secondary border-1">CSS</span> , and <span class="border-bottom border-secondary border-1">JavaScript</span>. Armed with knowledge in <span class="border-bottom border-secondary border-1">Bootstrap</span> and <span class="border-bottom border-secondary border-1">Sass</span>, I am able to create a charming and responsive website. In addition, my expertise in <span class="border-bottom border-secondary border-1">jQuery</span> allows me to give a wonderful interactive touch to web pages. With experience in <span class="border-bottom border-secondary border-1">PHP</span>, <span class="border-bottom border-secondary border-1">Laravel</span>, and <span class="border-bottom border-secondary border-1">MySQL</span>, I can develop sophisticated and efficient web applications. I am always passionate about creating exceptional user experiences and presenting innovative solutions. Together, let's realize your vision and present an extraordinary website!"</small>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/afiqqimy" target="blank">
