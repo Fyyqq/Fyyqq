@@ -10,5 +10,5 @@
 
 - 📫 How to reach me **afiqakimy123@gmail.com**
 
-- ⚡ Fun fact is **People don't want to see your struggle, but they want to see your success**
+- ⚡ Fun fact is **Suffering is better than give up**
 
