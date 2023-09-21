@@ -8,5 +8,5 @@
 
 - 📫 How to reach me **afiqakimy123@gmail.com**
 
-- ⚡ Fun fact is **Suffering is better than give up**
+- ⚡ Fun fact is **Let's See Me In The Next 5 Years**
 
