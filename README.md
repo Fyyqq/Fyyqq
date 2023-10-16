@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fyyqq&label=Profile%20views&color=0e75b6&style=flat" alt="fyyqq" /> </p>
  
-- ♥ I’m interested in technology of **Machine Learning, Web Development**
+-  &nbsp;♥&nbsp;&nbsp; I’m interested in technology of **Machine Learning, Web Development**
 
 - 👨‍💻 All of my projects are available at [https://fyyqq.github.io/main](https://fyyqq.github.io/main)
 
